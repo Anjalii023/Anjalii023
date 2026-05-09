@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an AI &Data Science student who loves turning messy datasets into clear narratives. Whether I’m presenting blockchain<br>research at ICTCS 2025 or building ATS analytics to bridge skill gaps, I focus on making data actually useful. I’m deep<br>into Python and SQL, but I also know that technical skills are only half the battle—the rest is about curiosity and clear<br>communication. When I’m not digging through spreadsheets, you’ll likely find me on a badminton court or lost in a novel.
+I’m an AI & Data Science student passionate about building practical and impactful tech solutions. From publishing blockchain security research at ICTCS 2025 to developing ATS analytics and big data pipelines, I enjoy solving problems through data, development, and experimentation. I work primarily with Python, SQL, machine learning, and distributed systems, while also valuing curiosity, communication, and continuous learning. Outside tech, you’ll probably find me playing badminton or getting lost in a good novel.
 
 
 ## 🌐 Socials:
